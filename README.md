@@ -1,4 +1,4 @@
-#hey!! I'm Vatsalraj
+# hey!! I'm Vatsalraj
 
 ##My name is Vatsalraj Rathod.I'm Btech+Mtech student at IITGN computer science department.I was born and raised in Rajkot
 ##Knowledge and motivation are the driving factors in the success of people’s lives. However, Passion and the ability to dream are the key elements that tie everything together.
