@@ -11,6 +11,6 @@
 ## Links
 [instagram] (https://www.intagram.com/vats_2611)
 ## Image
-- [Minions] (https://octodex.github.com/images/minion.png)
-- ![alt text](http://picsum.photos/400/400)
+[Minions] (https://octodex.github.com/images/minion.png)
+![alt text](http://picsum.photos/400/400)
 ## THE END
